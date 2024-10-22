@@ -1,0 +1,26 @@
+<h2 mat-dialog-title>Add New Device</h2>
+
+<mat-dialog-content>
+  <mat-form-field appearance="fill">
+    <mat-label>Device Name</mat-label>
+    <input matInput [(ngModel)]="newDevice.name" placeholder="Enter device name" required>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Start Time</mat-label>
+    <input matInput [(ngModel)]="newDevice.startTime" type="time" required>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>End Time</mat-label>
+    <input matInput [(ngModel)]="newDevice.endTime" type="time" required>
+  </mat-form-field>
+
+  <mat-slide-toggle [(ngModel)]="newDevice.status">Status</mat-slide-toggle>
+  <mat-slide-toggle [(ngModel)]="newDevice.isActive">Active</mat-slide-toggle>
+</mat-dialog-content>
+
+<mat-dialog-actions align="end">
+  <button mat-button (click)="onCancel()">Cancel</button>
+  <button mat-button (click)="onAddDevice()" [disabled]="!newDevice.name || !newDevice.startTime || !newDevice.endTime">Add Device</button>
+</mat-dialog-actions>

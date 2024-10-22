@@ -1,0 +1,152 @@
+/* Global Styles */
+body {
+    background-color: #121212; /* Dark background for the body */
+    color: #e0e0e0; /* Light gray text for better readability */
+    font-family: 'Roboto', sans-serif; /* Use a clean, modern font */
+    margin: 0; /* Remove default margin */
+}
+
+/* App Container Styles */
+.app-container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+
+/* Header Styles */
+.app-header {
+    background-color: #1e1e1e; /* Darker header background */
+    color: #fff; /* White text for contrast */
+    padding: 15px 20px; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+/* Navigation Link Styles */
+.app-nav .nav-link {
+    color: #e0e0e0; /* Light gray text */
+    margin-left: 15px; 
+    text-decoration: none; 
+    transition: color 0.3s; 
+}
+
+.app-nav .nav-link:hover {
+    color: #bb86fc; /* Highlight on hover */
+}
+
+/* Main Section Styles */
+.app-main {
+    background-color: #1e1e1e; /* Dark main background */
+    padding: 20px; 
+    border-radius: 8px; 
+}
+
+/* Footer Styles */
+.app-footer {
+    text-align: center; 
+    padding: 10px; 
+    background-color: #1e1e1e; 
+    color: #e0e0e0; 
+}
+
+/* Login/Register Container Styles */
+.login-container, .register-container {
+    max-width: 400px; 
+    margin: 100px auto; 
+    padding: 20px; 
+    background-color: #2a2a2a; /* Darker background for forms */
+    border-radius: 8px; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); 
+}
+
+/* Title Styles */
+.login-title, .register-title {
+    font-size: 2rem; 
+    color: #bb86fc; /* Light purple color for titles */
+    margin-bottom: 20px; 
+    text-align: center; 
+}
+
+/* Form Styles */
+.login-form, .register-form {
+    display: flex; 
+    flex-direction: column; 
+}
+
+/* Form Field Styles */
+.form-field {
+    margin-bottom: 15px; 
+}
+
+/* Checkbox Styles */
+mat-checkbox {
+    color: #bb86fc; /* Checkbox color */
+}
+
+/* Button Styles */
+.login-button, .register-button {
+    padding: 12px; 
+    font-size: 1rem; 
+    background-color: #bb86fc; /* Button background color */
+    color: #fff; /* White text */
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.login-button:hover, .register-button:hover {
+    background-color: #3700b3; /* Darker purple on hover */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 480px) {
+    .login-container, .register-container {
+        width: 90%; 
+        margin: 50px auto; 
+    }
+}
+
+/* Dashboard Styles */
+.dashboard-toolbar {
+    background-color: #1e1e1e; 
+    color: #fff; 
+}
+
+.devices-title {
+    color: #bb86fc; 
+}
+
+/* Device Card Styles */
+.device-card {
+    background-color: #2a2a2a; 
+    color: #e0e0e0; 
+}
+
+/* Action Buttons in Device Cards */
+.action-buttons button {
+    background-color: #bb86fc; 
+    color: #fff; 
+}
+
+.action-buttons button:hover {
+    background-color: #3700b3; 
+}
+
+/* Notifications Styles */
+.notifications {
+    position: absolute;
+    padding: 10px;
+    top: 250px;
+    right: 50px;
+    background-color: #2a2a2a; 
+    color: #e0e0e0; 
+}
+
+/* Media Queries for Responsiveness */
+@media screen and (max-width: 768px) { 
+    .device-grid { 
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); 
+    } 
+}

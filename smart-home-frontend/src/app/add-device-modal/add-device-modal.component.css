@@ -1,0 +1,49 @@
+/* Dark Mode Styles for Add Device Modal */
+
+.add-device-container {
+    max-width: 500px; /* Max width for modal */
+    padding: 20px; /* Padding inside modal */
+    background-color: #2a2a2a; /* Dark background for modal */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+}
+
+.add-device-title {
+    font-size: 1.8rem; /* Font size for modal title */
+    color: #bb86fc; /* Light purple color */
+    margin-bottom: 20px; /* Space below the title */
+    text-align: center; /* Center the title */
+}
+
+.mat-form-field {
+    margin-bottom: 15px; /* Space below each form field */
+}
+
+.mat-input-element {
+    color: #e0e0e0; /* Light gray text for inputs */
+    background-color: #3a3a3a; /* Darker input background */
+    border: 1px solid #444; /* Border for input fields */
+}
+
+.mat-input-element::placeholder {
+    color: #888; /* Placeholder text color */
+}
+
+.mat-form-field:focus-within .mat-input-element {
+    border-color: #bb86fc; /* Change border color on focus */
+}
+
+.add-device-button {
+    padding: 12px; /* Padding for buttons */
+    font-size: 1rem; /* Font size for buttons */
+    background-color: #bb86fc; /* Button background color */
+    color: #fff; /* White text color */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded corners for buttons */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+.add-device-button:hover {
+    background-color: #3700b3; /* Darker purple on hover */
+}

@@ -1,0 +1,44 @@
+/* Dark Mode Styles for Edit Device Modal */
+
+.edit-device-container {
+    max-width: 500px; /* Max width for modal */
+    padding: 20px; /* Padding inside modal */
+    background-color: #2a2a2a; /* Dark background for modal */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+}
+
+.edit-device-title {
+    font-size: 1.8rem; /* Font size for modal title */
+    color: #bb86fc; /* Light purple color */
+    margin-bottom: 20px; /* Space below the title */
+    text-align: center; /* Center the title */
+}
+
+.mat-form-field {
+    margin-bottom: 15px; /* Space below each form field */
+}
+
+.mat-input-element {
+    color: #e0e0e0; /* Light gray text for inputs */
+    background-color: #3a3a3a; /* Darker input background */
+    border: 1px solid #444; /* Border for input fields */
+}
+
+.mat-input-element::placeholder {
+    color: #888; /* Placeholder text color */
+}
+
+.mat-form-field:focus-within .mat-input-element {
+    border-color: #bb86fc; /* Change border color on focus */
+}
+
+.mat-slide-toggle {
+    color: #bb86fc; /* Color for toggle switches */
+}
+
+.dialog-actions {
+    display: flex; /* Flexbox layout for actions */
+    justify-content: space-between; /* Space between buttons */
+    margin-top: 20px; /* Space above buttons */
+}

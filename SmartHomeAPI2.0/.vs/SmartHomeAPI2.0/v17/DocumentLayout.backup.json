@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\data\\smarthomecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\data\\smarthomecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|c:\\users\\yogesh\\source\\repos\\smarthomeapi2.0\\smarthomeapi2.0\\migrations\\20241019150752_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0825D7-87E6-4352-AC66-B03175679ECB}|SmartHomeAPI2.0\\SmartHomeAPI2.0.csproj|solutionrelative:smarthomeapi2.0\\migrations\\20241019150752_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SmartHomeAPI2.0\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:00:17.453Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "SmartHomeAPI2.0\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:01:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\appsettings.Development.json",
+              "RelativeToolTip": "SmartHomeAPI2.0\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T08:45:06.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241019150752_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Migrations\\20241019150752_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\Migrations\\20241019150752_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Migrations\\20241019150752_InitialCreate.cs",
+              "RelativeToolTip": "SmartHomeAPI2.0\\Migrations\\20241019150752_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:07:52.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Program.cs",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Program.cs",
+              "RelativeToolTip": "SmartHomeAPI2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:59:15.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\appsettings.json",
+              "RelativeToolTip": "SmartHomeAPI2.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T14:58:15.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartHomeContext.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Data\\SmartHomeContext.cs",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\Data\\SmartHomeContext.cs",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Data\\SmartHomeContext.cs",
+              "RelativeToolTip": "SmartHomeAPI2.0\\Data\\SmartHomeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:57:00.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Models\\Notification.cs",
+              "RelativeToolTip": "SmartHomeAPI2.0\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:54:48.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Models\\Device.cs",
+              "RelativeToolTip": "SmartHomeAPI2.0\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:53:51.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SmartHomeAPI2.0\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\YOGESH\\source\\repos\\SmartHomeAPI2.0\\SmartHomeAPI2.0\\Models\\User.cs",
+              "RelativeToolTip": "SmartHomeAPI2.0\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:52:57.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
