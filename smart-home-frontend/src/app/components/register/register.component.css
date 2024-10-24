@@ -1,0 +1,68 @@
+/* Dark Mode Styles for Registration Page */
+
+.register-container {
+    max-width: 400px; /* Width of the form container */
+    margin: 100px auto; /* Center the container */
+    padding: 20px; /* Padding inside the container */
+    background-color: #2E236C; /* Dark background for forms */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+}
+
+.register-title {
+    font-size: 2rem; /* Font size for the title */
+    color: #C8ACD6; /* Light purple color for title */
+    margin-bottom: 20px; /* Space below the title */
+    text-align: center; /* Center the title */
+}
+
+.register-form {
+    display: flex; /* Flexbox layout for form fields */
+    flex-direction: column; /* Stack fields vertically */
+}
+
+.mat-form-field {
+    margin-bottom: 15px; /* Space below each form field */
+}
+
+.mat-input-element {
+    color: #e0e0e0; /* Light gray text for input */
+    background-color: #3A3A3A; /* Darker background for inputs */
+    border: 1px solid #444; /* Border for input fields */
+}
+
+.mat-input-element::placeholder {
+    color: #888; /* Placeholder text color */
+}
+
+.mat-form-field:focus-within .mat-input-element {
+    border-color: #bb86fc; /* Change border color on focus */
+}
+
+mat-checkbox {
+    color: #C8ACD6; /* Checkbox color */
+}
+
+
+.register-button {
+    padding: 12px; /* Padding for buttons */
+    font-size: 1rem; /* Font size for buttons */
+    background-color: #bb86fc; /* Button background color */
+    color: #fff; /* White text color */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded corners for buttons */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+.register-button:hover {
+    background-color: #3700b3; /* Darker purple on hover */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 480px) {
+    .register-container {
+        width: 90%; /* Adjust width for smaller screens */
+        margin: 50px auto; /* Center container */
+    }
+}

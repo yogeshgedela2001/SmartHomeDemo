@@ -1,0 +1,50 @@
+/* Dark Mode Styles for App Component */
+
+.app-container {
+    min-height: 100vh; /* Full height for app container */
+    background-color: #17153B; /* Very dark background for app */
+    color: #e0e0e0; /* Light gray text color */
+}
+
+.app-header {
+    background-color: #2E236C; /* Dark background for header */
+    padding: 15px; /* Padding inside header */
+    color: #fff; /* White text color */
+}
+
+.app-header h1 {
+    font-size: 2rem; /* Font size for header title */
+    color: #C8ACD6; /* Light purple color for title */
+}
+
+.app-nav {
+    display: flex; /* Flexbox layout for navigation */
+    justify-content: flex-end; /* Align nav items to the right */
+}
+
+.nav-link {
+    color: #e0e0e0; /* Light gray color for links */
+    margin-left: 20px; /* Space between links */
+    text-decoration: none; /* No underline */
+    transition: color 0.3s; /* Smooth color transition */
+}
+
+.nav-link:hover {
+    color: #bb86fc; /* Change link color on hover */
+}
+
+.app-main {
+    padding: 20px; /* Padding inside main content area */
+    background-color: #1e1e1e; /* Darker background for main area */
+    border-radius: 8px; /* Rounded corners for main area */
+}
+
+.app-footer {
+    text-align: center; /* Center text */
+    padding: 10px; /* Padding inside footer */
+    background-color: #2E236C; /* Dark background for footer */
+    color: #e0e0e0; /* Light gray text color */
+    position: relative; /* Position footer relative */
+    bottom: 0; /* Align to the bottom */
+    width: 100%; /* Full width */
+}

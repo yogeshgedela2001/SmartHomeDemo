@@ -1,0 +1,182 @@
+/* Global Styles */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body, html {
+    height: 100%; /* Full height for body and html */
+    margin: 0; /* Remove default margin */
+    background-color: #121212; /* Dark background for the body */
+    color: #e0e0e0; /* Light gray text for better readability */
+    font-family: "Poppins" !important;
+    overflow: hidden; /* Prevent overflow */
+}
+
+/* App Container Styles */
+.app-container {
+    display: flex; /* Use flexbox to make the layout responsive */
+    flex-direction: column; /* Stack header, main, and footer vertically */
+    height: 100vh; /* Full viewport height */
+}
+
+/* Header Styles */
+.app-header {
+    background-color: #1e1e1e; /* Darker header background */
+    color: #fff; /* White text for contrast */
+    padding: 15px 20px; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+/* Navigation Link Styles */
+.app-nav .nav-link {
+    color: #e0e0e0; /* Light gray text */
+    margin-left: 15px; 
+    text-decoration: none; 
+    transition: color 0.3s; 
+}
+
+.app-nav .nav-link:hover {
+    color: #bb86fc; /* Highlight on hover */
+}
+
+/* Main Section Styles */
+.app-main {
+    background-color: #1e1e1e; /* Dark main background */
+    flex: 1; /* Take the remaining space */
+    padding: 20px; 
+    border-radius: 8px; 
+    overflow-y: auto; /* Allow vertical scrolling if content overflows */
+}
+
+/* Footer Styles */
+.app-footer {
+    text-align: center; 
+    padding: 10px; 
+    background-color: #1e1e1e; 
+    color: #e0e0e0; 
+}
+
+/* Login/Register Container Styles */
+.login-container, .register-container {
+    max-width: 400px; 
+    margin: 50px auto; 
+    padding: 20px; 
+    background-color: #2e236c; /* Darker background for forms */
+    border-radius: 8px; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Enhanced shadow for depth */
+}
+
+/* Title Styles */
+.login-title, .register-title {
+    font-size: 2rem; 
+    color: #C8ACD6; /* Light purple color for titles */
+    margin-bottom: 20px; 
+    text-align: center; 
+}
+
+/* Form Styles */
+.login-form, .register-form {
+    display: flex; 
+    flex-direction: column; 
+}
+
+/* Form Field Styles */
+.form-field {
+    margin-bottom: 15px; 
+}
+
+/* Checkbox Styles */
+mat-checkbox {
+    color: #C8ACD6; /* Checkbox color */
+}
+
+/* Button Styles */
+.login-button, .register-button {
+    padding: 12px; 
+    font-size: 1rem; 
+    background-color: #433D8B; /* Button background color */
+    color: #fff; /* White text */
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.login-button:hover, .register-button:hover {
+    background-color: #3700b3; /* Darker purple on hover */
+}
+.mat-internal-form-field>label {
+    color: #fff !important;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 480px) {
+    .login-container, .register-container {
+        width: 90%; 
+        margin: 50px auto; 
+    }
+}
+
+/* Dashboard Styles */
+.dashboard-toolbar {
+    background-color: #1e1e1e; 
+    color: #fff; 
+    padding: 15px; /* Add padding for better spacing */
+}
+
+/* Device Title Styles */
+.devices-title {
+    color: #C8ACD6; /* Light purple color for device title */
+    font-size: 1.8rem; /* Larger font for visibility */
+    margin-bottom: 20px; /* Space below title */
+}
+
+/* Device Card Styles */
+.device-card {
+    background-color: #2e236c; /* Darker background for device cards */
+    color: #e0e0e0; 
+    padding: 15px; /* Padding inside device card */
+    border-radius: 8px; /* Rounded corners for card */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); /* Subtle shadow */
+    transition: transform 0.3s, box-shadow 0.3s; /* Smooth transition */
+}
+
+.device-card:hover {
+    transform: translateY(-2px); /* Lift effect on hover */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Darker shadow on hover */
+}
+
+/* Action Buttons in Device Cards */
+.action-buttons button {
+    background-color:  #433D8B; /* Action button background color */
+    color: #2e236c; /* Darker text color for contrast */
+    padding: 8px 12px; /* Padding for action buttons */
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.action-buttons button:hover {
+    background-color: #C8ACD6; /* Darker purple on hover */
+}
+
+
+
+/* Notifications Styles */
+.notifications {
+    position: absolute;
+    padding: 10px;
+    min-width: 350px;;
+    top: 200px;
+    right: 100px;
+    background-color: #C8ACD6; /* Light background for notifications */
+    color: #000000; /* Black text for visibility */
+    border-radius: 4px; /* Rounded corners for notifications */
+}
+
+/* Media Queries for Responsiveness */
+@media screen and (max-width: 768px) { 
+    .device-grid { 
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); 
+    } 
+}

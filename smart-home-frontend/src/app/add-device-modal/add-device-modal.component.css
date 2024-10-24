@@ -1,0 +1,48 @@
+
+.add-device-container {
+    max-width: 500px; 
+    padding: 20px; 
+    background-color: #17153B; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); 
+}
+
+.add-device-title {
+    font-size: 1.8rem; 
+    color: #C8ACD6; 
+    margin-bottom: 20px; 
+    text-align: center; 
+}
+
+.mat-form-field {
+    margin-bottom: 15px; 
+}
+
+.mat-input-element {
+    color: #e0e0e0; 
+    background-color: #2E236C; 
+    border: 1px solid #433D8B; 
+}
+
+.mat-input-element::placeholder {
+    color: #888; 
+}
+
+.mat-form-field:focus-within .mat-input-element {
+    border-color: #C8ACD6; 
+}
+
+.add-device-button {
+    padding: 12px; 
+    font-size: 1rem; 
+    background-color: #C8ACD6; 
+    color: #fff; 
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.add-device-button:hover {
+    background-color: #433D8B; 
+}
